@@ -8,7 +8,7 @@
 <p><a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wergiley" alt="wergiley" /></a></p>
 
 
-<h2>Conecte-se comigo:</h2>
+<h2>Rede Sociais:</h2>
 <p><a href="https://instagram.com/wergileyoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="wergileyoliveira" height="30" width="40" /></a>
 </p>
 
