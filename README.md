@@ -15,9 +15,11 @@
 <h3 align="left">Progresso:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wergiley&show_icons=true&locale=en&layout=compact" alt="wergiley" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wergiley&show_icons=true&locale=en&layout=compact" alt="wergiley" /></p>
+<hr>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en" alt="wergiley" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en" alt="wergiley" /></p>
+ <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&" alt="wergiley" /></p>
 
