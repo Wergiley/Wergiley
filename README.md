@@ -6,7 +6,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wergiley" alt="wergiley" /></a> </p>
 
-- 🔭 I’m currently working on [Curriculo Dev](https://wergiley.github.io/jonada-dev.github.io/) '-'
+🔭 I’m currently working on [Curriculo Dev](https://wergiley.github.io/jonada-dev.github.io/) '-'
 
 <h3>Connect with me:</h3>
 <p>
