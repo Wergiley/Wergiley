@@ -13,14 +13,15 @@
 
 </p>
 
-<h3 align="left">Progresso:</h3>
-
+<h2 align="left">Progresso:</h2>
 <hr>
+<h3>_</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wergiley&show_icons=true&locale=en&layout=compact" alt="wergiley" /></p>
 
-
+<h3>_</h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en" alt="wergiley" /></p>
 
+<h3>_</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&" alt="wergiley" /></p>
 <hr>
 
