@@ -91,7 +91,7 @@
 </p>
   
 <h2>Progress:</h2>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en" alt="wergiley" /></p>
+<p>&nbsp;<img src="[https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=KonstantinDjairo&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)" alt="wergiley" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&" alt="wergiley" /></p>
 
