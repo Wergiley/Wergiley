@@ -1,4 +1,4 @@
-
+ <body>
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&theme=dark&show_icons=true" alt="wergiley"/></p> 
 
@@ -32,4 +32,5 @@
     <a href = "https://www.instagram.com/wergileyoliveira/">
       <img width="25" src="instagram.png">
     </a>
-</div>
+    </div>
+   </body>
