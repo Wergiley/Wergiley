@@ -1,11 +1,6 @@
  <body>
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&theme=dark&show_icons=true" alt="wergiley"/></p> 
-
-<p><img  src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/></p>
- 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wergiley&theme=codeSTACKr&show_icons=true" alt="wergiley" /></p>
-
 <br>
 
 
