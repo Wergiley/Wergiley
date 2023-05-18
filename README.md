@@ -1,10 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Wergiley Oliveira</h1>
-<h3 align="center">A frontend developer from Brazil passionate about technology!</h3>
+<h3 align="center">A Back-End Developer from Brazil passionate about technology!</h3>
 
-<p <img src="https://komarev.com/ghpvc/?username=wergiley&label=Profile%20views&color=0e75b6&style=flat" alt="wergiley" /> </p>
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wergiley" alt="wergiley" /></a> </p>
 <p> 🔭 Curriculo Dev: https://wergiley.github.io/Evento_Jonada-Dev.github.io/</p>
 </div>
 
@@ -25,8 +22,6 @@
   <br>
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wergiley&show_icons=true&locale=en&layout=compact" alt="wergiley" /></p>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=wergiley&show_icons=true&locale=en" alt="wergiley" /></p>
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wergiley&" alt="wergiley" /></p>
 </div>
