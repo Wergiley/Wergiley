@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wergiley Oliveira</h1>
 <h3 align="center">A Back-End Developer from Brazil passionate about technology!</h3>
 
-<p> 🔭 Curriculo Dev: https://wergiley.github.io/Evento_Jonada-Dev.github.io/</p>
+<a href="https://wergiley.github.io/Evento_Jonada-Dev.github.io/"> 🔭 Curriculo Dev:</a>
 </div>
 
 
