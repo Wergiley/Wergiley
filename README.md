@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Wergiley Oliveira</h1>
-<h3 align="center">A Back-End Developer from Brazil passionate about technology!</h3>
+<h3 align="center">A FullStack Developer from Brazil passionate about technology!</h3>
 
 <a href="https://wergiley.github.io/Evento_Jonada-Dev.github.io/"> 🔭 Curriculo Dev:</a>
 </div>
