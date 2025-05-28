@@ -5,7 +5,6 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 ---
 
 ## 💼 Sobre mim
-- 📋 <a href="https://wergiley.github.io/Evento_Jonada-Dev.github.io/">Curriculo</a>
 - 🎓 **Formação em Administração** com foco em tecnologia e inovação
 - 💡 **Apaixonado por resolver problemas reais com tecnologia**
 - 📈 Experiência em liderança de projetos, automação de processos e integração de sistemas
