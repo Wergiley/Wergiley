@@ -15,6 +15,17 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 
 ---
 
+## 🎓 Formações & Especializações Técnicas
+- ? 
+- ? 
+- ? 
+- ? 
+- ? 
+- ? 
+- ? 
+
+---
+
 ## 🛠️ Habilidades Técnicas
 
 ### 🌐 Frontend
