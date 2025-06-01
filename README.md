@@ -29,7 +29,7 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 
 ## 📚 Programas e Bootcamps
 - Embaixador Universitário | <a href="">DIO Campus Expert</a>
-- Especialista FullStack Java - <a href="">Programa ONE</a>
+- Especialista FullStack Java - <a href="">Programa Oracle Next Education (ONE)</a>
 
 ---
 
