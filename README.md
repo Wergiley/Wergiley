@@ -5,24 +5,31 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 ---
 
 ## 💼 Sobre mim
+- 🗺️ Sou de Natal RN, Brasil
+- 📚 Estudante de Tecnologia da Informação
 - 🎓 **Formação em Administração** com foco em tecnologia e inovação
 - 💡 **Apaixonado por resolver problemas reais com tecnologia**
 - 📈 Experiência em liderança de projetos, automação de processos e integração de sistemas
-- 🔐 Interesse especial em segurança da informação e boas práticas em arquitetura de software
+- 🔐 Interesse em cibersegurança, engenharia de software e boas práticas em arquitetura de software
 - 🤝 Aberto a colaborações em projetos Open Source e squads ágeis
-- 💬 Me pergunte sobre: Dev Fullstack, Mobile, UI/UX, DevSecOps, Análise de Dados, APIs e mais
-- 📫 Contato: [LinkedIn](https://linkedin.com/in/wergileyoliveira) • [Portfólio](https://wergiley.github.io/Evento_Jonada-Dev.github.io/) • [Email]()
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/wergileyoliveira) • [Portfólio](https://wergiley.github.io/Evento_Jonada-Dev.github.io/)
 
 ---
 
-## 🎓 Formações & Especializações Técnicas
-- ? 
-- ? 
-- ? 
-- ? 
-- ? 
-- ? 
-- ? 
+## 🎓 Formações e Especializações
+- Ensino Técnico Desenvolvedor FullSatck - <a href="">Oracle ONE</a>
+- Ensino Técnico Programador FullStack - <a href="">DevMedia</a>
+- Certificado de Especialização Project Management - <a href="">Google</a>
+- Certificado de Especialização Digital Marketing e E-commerce - <a href="">Google</a>
+- Certificado de Especialização Analytics Data - <a href="">Google</a>
+- Certificado de Especialização UX Design - <a href="">Google</a>
+- Certificado de Especialização Cybersecurity - <a href="">Google</a>
+
+---
+
+## 📚 Programas e Bootcamps
+- Embaixador Universitário | <a href="">DIO Campus Expert</a>
+- Especialista FullStack Java - <a href="">Programa ONE</a>
 
 ---
 
