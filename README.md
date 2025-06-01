@@ -8,6 +8,7 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 - 🗺️ Sou de Natal RN, Brasil
 - 📚 Estudante de Tecnologia da Informação
 - 🎓 **Formação em Administração** com foco em tecnologia e inovação
+- 🎓 **Cursando Técnico em Qualidade** com foco em gestão de qualidade em TI
 - 💡 **Apaixonado por resolver problemas reais com tecnologia**
 - 📈 Experiência em liderança de projetos, automação de processos e integração de sistemas
 - 🔐 Interesse em cibersegurança, engenharia de software e boas práticas em arquitetura de software
