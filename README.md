@@ -13,7 +13,7 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 - 📈 Experiência em liderança de projetos, automação de processos e integração de sistemas
 - 🔐 Interesse em cibersegurança, engenharia de software e boas práticas em arquitetura de software
 - 🤝 Aberto a colaborações em projetos Open Source e squads ágeis
-- 📫 Contato: [LinkedIn](https://linkedin.com/in/wergileyoliveira) • [Portfólio](https://wergiley.github.io/Evento_Jonada-Dev.github.io/)
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/wergileyoliveira) • [Curriculum Vitae](https://wergiley.github.io/Curriculum-Vitae/)
 
 ---
 
