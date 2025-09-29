@@ -18,13 +18,17 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 ---
 
 ## 🎓 Formações e Especializações
-- Ensino Técnico Desenvolvedor FullSatck - <a href="">Oracle ONE</a>
-- Ensino Técnico Programador FullStack - <a href="">DevMedia</a>
-- Certificado de Especialização Project Management - <a href="">Google</a>
-- Certificado de Especialização Digital Marketing e E-commerce - <a href="">Google</a>
-- Certificado de Especialização Analytics Data - <a href="">Google</a>
-- Certificado de Especialização UX Design - <a href="">Google</a>
-- Certificado de Especialização Cybersecurity - <a href="">Google</a>
+- Técnico em Administração - <a href="">IFRN</a> | 2024
+- Técnico em Logística - <a href="">Senac</a> | 2025
+- Técnico em Qualidade - <a href="">Senac</a> | 2025
+- Técnico em Desenvolvimento de Sistemas - <a href="">Senac</a> | 2025
+- Especialiação em Desenvolvimento FullSatck - <a href="">Oracle ONE</a> | 2024
+- Especialização em Programação FullStack - <a href="">DevMedia</a> | 20234
+- Certificado Profissional Project Management - <a href="">Google</a> | 2023
+- Certificado Profissional Digital Marketing e E-commerce - <a href="">Google</a> | 2024
+- Certificado Profissional Analytics Data - <a href="">Google</a> | 2025
+- Certificado Profissional UX Design - <a href="">Google</a> | 2025
+- Certificado Profissional Cybersecurity - <a href="">Google</a> | 2025
 
 ---
 
