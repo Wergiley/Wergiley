@@ -30,7 +30,6 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 - Certificado Profissional Analytics Data - <a href="">Google</a> | 2025
 - Certificado Profissional UX Design - <a href="">Google</a> | 2025
 - Certificado Profissional Cybersecurity - <a href="">Google</a> | 2025
-- Graduação Superior em Ciências da Computação <a href="">Universidade</a> | 2.2026
 ---
 
 ## 📚 Programas e Bootcamps
