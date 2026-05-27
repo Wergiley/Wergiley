@@ -19,10 +19,7 @@ Sou um **Desenvolvedor Fullstack** multidisciplinar com sólida experiência em 
 
 ## 🎓 Formações e Especializações
 - Técnico em Administração - <a href="">IFRN</a> | 2024
-- Técnico em Logística - <a href="">Senac</a> | 2025 • 2026
-- Técnico em Qualidade - <a href="">Senac</a> | 2025 • 2026
 - Técnico em Desenvolvimento de Sistemas - <a href="">Senac</a> | 2025 • 2027
-- Técnico em Segurança do Trabalho - <a href="">Senac</a> | 2026 • 2027
 - Especialiação em Desenvolvimento FullSatck - <a href="">Oracle ONE</a> | 2024
 - Especialização em Programação FullStack - <a href="">DevMedia</a> | 20234
 - Certificado Profissional Project Management - <a href="">Google</a> | 2023
